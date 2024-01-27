@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
+.App{
+  background-color: aliceblue;
+  justify-content: flex-start;
+  border-radius: 20px;
+  
+}
+body{
+  background-color: bisque;
+}
